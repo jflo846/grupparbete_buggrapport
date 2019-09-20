@@ -2,6 +2,7 @@
 Buggrapport för grupparbetet. 
 
 Hur dokumenterar man en bugg
+
 När man rapporterar en bugg är det 3 saker man skall tänka på:
 
 Rapportera inte en bugg som redan rapporterats (använd sök-funktionen).
