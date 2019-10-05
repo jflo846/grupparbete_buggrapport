@@ -11,7 +11,7 @@ Chrome Version 77.0.3865.90 (Official Build) (64-bit) ,
 Firefox Version 69.0.2 (64-bit) ,
 Safari Version IOS 12.4.2
 
-jflo846-Jennie
+jflo846-Jennie (Chrome Desktop Version 77.0.3865.90,Firefox Version 69.0.2 (64-bit)
 
 memoona-tahira-Memoona
 
